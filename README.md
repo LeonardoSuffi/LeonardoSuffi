@@ -16,29 +16,3 @@
   <a href = "leonardo.fco123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-francisco-817568225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<head>
-  <style>
-    /* Define uma fonte personalizada para o título */
-h3 {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: 700;
-  font-size: 28px;
-  margin-top: 0;
-}
-
-/* Define um estilo para o parágrafo */
-p {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  margin-bottom: 20px;
-}
-
-/* Define um estilo para o emoji de "tchau" */
-.emoji {
-  font-size: 24px;
-  margin-left: 5px;
-}
-  </style>
-</head>

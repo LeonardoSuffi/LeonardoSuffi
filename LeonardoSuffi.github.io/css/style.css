@@ -1,101 +1,21 @@
-/* Adicione o background que você desejar */
-body {
-  background-color: #f9f9f9;
-}
-
-/* Adicione um estilo diferente ao texto de cabeçalho */
-h1, h2, h3, h4, h5, h6 {
-  font-family: Arial, sans-serif;
-  color: #333;
+h3 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 28px;
   margin-top: 0;
 }
 
-/* Adicione um estilo diferente ao texto normal */
+/* Define um estilo para o parágrafo */
 p {
-  font-family: Georgia, serif;
-  color: #777;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
   line-height: 1.5;
+  margin-bottom: 20px;
 }
 
-/* Adicione um estilo diferente aos links */
-a {
-  color: #0366d6;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* Adicione um estilo diferente às suas habilidades */
-.skills {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.skills li {
-  margin: 4px;
-  padding: 6px 10px;
-  background-color: #0366d6;
-  color: #fff;
-  border-radius: 20px;
-  font-size: 14px;
-  font-weight: bold;
-}
-
-/* Adicione um estilo diferente aos seus projetos destacados */
-.projects {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.projects li {
-  margin: 4px;
-  width: 200px;
-  background-color: #fff;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  border-radius: 10px;
-  overflow: hidden;
-}
-
-.projects li img {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-}
-
-.projects li .title {
-  padding: 10px;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.projects li .description {
-  padding: 10px;
-  font-size: 14px;
-  color: #777;
-}
-
-/* Adicione um estilo diferente às suas estatísticas de atividade */
-.activity {
-  display: flex;
-  justify-content: space-around;
-}
-
-.activity .stat {
-  text-align: center;
+/* Define um estilo para o emoji de "tchau" */
+.emoji {
   font-size: 24px;
-  font-weight: bold;
-}
-
-.activity .label {
-  text-align: center;
-  font-size: 14px;
-  color: #777;
+  margin-left: 5px;
 }

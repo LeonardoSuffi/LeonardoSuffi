@@ -1,5 +1,6 @@
-<h3>Prazer, meu nome é Leonardo, amo programar e levo isso em minha carreira no marketing digital.</h3>
-<p>Atualmente trabalho como programador e estrategista de marketing digital, ajudando empresas a se destacarem no mercado através de soluções inovadoras. Meu conhecimento em Análise de Sistemas me permite compreender as necessidades dos clientes e criar soluções personalizadas para suas empresas. Além disso, minhas habilidades em programação me permitem transformar ideias em produtos concretos. Estou sempre buscando novos desafios e oportunidades para crescer pessoal e profissionalmente, e estou animado para ver onde essas paixões me levarão. <span class="emoji">👋</span></p>
+<h3>Olá, sou Leonardo, um entusiasta da tecnologia e desenvolvedor apaixonado.</h3>
+<p>Sou formado em Análise de Sistemas e estou focado em minha carreira como Desenvolvedor WEB, comprometido em criar soluções inovadoras para os desafios do mundo digital. Com experiência em marketing digital, combino minha compreensão das necessidades dos clientes com minhas habilidades técnicas para oferecer soluções personalizadas que impulsionam o sucesso das empresas.</p>
+<p>Estou animado para contribuir para projetos desafiadores que ampliem meus horizontes profissionais. Seja bem-vindo ao meu perfil e estou ansioso para colaborar em novos projetos emocionantes! <span class="emoji">🚀</span></p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="leonardo_suffi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

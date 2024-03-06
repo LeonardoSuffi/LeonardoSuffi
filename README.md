@@ -1,4 +1,4 @@
-<h3>Olá! Meu nome é Leonardo e sou um estudante de Análise de Sistemas apaixonado por tecnologia, marketing digital e programação.</h3>
+<h3>Prazer, meu nome é Leonardo, amo programar e levo isso em minha carreira no marketing digital.</h3>
 <p>Atualmente trabalho como programador e estrategista de marketing digital, ajudando empresas a se destacarem no mercado através de soluções inovadoras. Meu conhecimento em Análise de Sistemas me permite compreender as necessidades dos clientes e criar soluções personalizadas para suas empresas. Além disso, minhas habilidades em programação me permitem transformar ideias em produtos concretos. Estou sempre buscando novos desafios e oportunidades para crescer pessoal e profissionalmente, e estou animado para ver onde essas paixões me levarão. <span class="emoji">👋</span></p>
 
 <div style="display: inline_block"><br>

@@ -1,4 +1,4 @@
-<h3>Olá, sou Leonardo, um entusiasta da tecnologia e desenvolvedor apaixonado.</h3>
+<h3>Olá, sou Leonardo, um entusiasta da tecnologia e desenvolvedor.</h3>
 <p>Sou formado em Análise de Sistemas e estou focado em minha carreira como Desenvolvedor WEB, comprometido em criar soluções inovadoras para os desafios do mundo digital. Com experiência em marketing digital, combino minha compreensão das necessidades dos clientes com minhas habilidades técnicas para oferecer soluções personalizadas que impulsionam o sucesso das empresas.</p>
 <p>Estou animado para contribuir para projetos desafiadores que ampliem meus horizontes profissionais. Seja bem-vindo ao meu perfil e estou ansioso para colaborar em novos projetos emocionantes! <span class="emoji">🚀</span></p>
 

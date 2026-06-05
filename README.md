@@ -1,10 +1,10 @@
-<h3>Olá, sou Leonardo — desenvolvedor e entusiasta da tecnologia. 👋</h3>
+<h3>Olá, sou Leonardo desenvolvedor e entusiasta da tecnologia. 👋</h3>
 
 <p>Formado em Análise de Sistemas e focado na minha carreira como Desenvolvedor WEB, comprometido em criar soluções inovadoras para os desafios do mundo digital. Com experiência em marketing digital, combino a compreensão das necessidades dos clientes com habilidades técnicas para entregar soluções personalizadas que impulsionam o sucesso das empresas.</p>
 
-<p>Atualmente integro <strong>Inteligência Artificial</strong> ao meu fluxo de desenvolvimento, usando ferramentas como <strong>Claude Code</strong> e <strong>Codex</strong> para escrever código com mais qualidade, agilidade e foco em boas práticas — sempre buscando evoluir como profissional.</p>
+<p>Atualmente integro <strong>Inteligência Artificial</strong> ao meu fluxo de desenvolvimento, usando ferramentas como <strong>Claude Code</strong> e <strong>Codex</strong> para escrever código com mais qualidade, agilidade e foco em boas práticas sempre buscando evoluir como profissional.</p>
 
-<p>Ansioso para contribuir em projetos desafiadores que ampliem meus horizontes. Seja bem-vindo ao meu perfil — estou aqui para colaborar em novos projetos! <span class="emoji">🚀</span></p>
+<p>Ansioso para contribuir em projetos desafiadores que ampliem meus horizontes. Seja bem-vindo ao meu perfil estou aqui para colaborar em novos projetos! <span class="emoji">🚀</span></p>
 
 <h4>🛠️ Tecnologias</h4>
 <div style="display: inline_block"><br>

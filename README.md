@@ -1,10 +1,10 @@
 <h3>Leonardo | Forward Deployed Engineer 👋</h3>
 
-<p>Formado em Análise e Desenvolvimento de Sistemas, sou um profissional com 7 anos de carreira dedicados exclusivamente ao ecossistema web, atuando na arquitetura e desenvolvimento de sistemas corporativos, plataformas digitais e sites de alta performance.</p>
+<p>Formado em Análise e Desenvolvimento de Sistemas, sou um profissional com 7 anos de carreira dedicados exclusivamente ao ecossistema web, atuando na arquitetura e desenvolvimento de sistemas corporativos, plataformas digitais, sites e e-commerces.</p>
 
 <p>Nos últimos 2 anos, atuo como <strong>Forward Deployed Engineer (FDE)</strong> em empresas de grande porte, operando na linha de frente técnica. Minha especialidade é traduzir desafios complexos de negócios em soluções de software sob medida, garantindo excelência em engenharia e entregas estratégicas de alto impacto.</p>
 
-<p>Integro ferramentas de <strong>Inteligência Artificial</strong>, como <strong>Claude Code</strong> e <strong>Codex</strong>, ao meu fluxo de engenharia corporativa para otimizar o ciclo de desenvolvimento, garantindo código de alta qualidade, agilidade operacional e aderência às melhores práticas de mercado.</p>
+<p>Integro ferramentas de <strong>Inteligência Artificial</strong> — como <strong>Claude Code</strong>, <strong>Codex</strong>, <strong>GitHub Copilot</strong>, <strong>ChatGPT</strong> e <strong>Perplexity</strong> — ao meu fluxo de engenharia corporativa para otimizar o ciclo de desenvolvimento, garantindo código de alta qualidade, agilidade operacional e aderência às melhores práticas de mercado.</p>
 
 <h4>🛠️ Tecnologias</h4>
 <div style="display: inline_block"><br>
@@ -19,6 +19,9 @@
 <div>
   <img alt="Claude" src="https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
   <img alt="OpenAI Codex" src="https://img.shields.io/badge/-Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img alt="GitHub Copilot" src="https://img.shields.io/badge/-Copilot-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+  <img alt="Perplexity" src="https://img.shields.io/badge/-Perplexity-262626?style=for-the-badge&logoColor=white">
 </div>
 
 ##

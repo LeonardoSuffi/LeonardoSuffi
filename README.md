@@ -4,7 +4,7 @@
 
 <p>Nos últimos 2 anos, atuo como <strong>Forward Deployed Engineer (FDE)</strong> em empresas de grande porte, operando na linha de frente técnica. Minha especialidade é traduzir desafios complexos de negócios em soluções de software sob medida, garantindo excelência em engenharia e entregas estratégicas de alto impacto.</p>
 
-<p>Integro ferramentas de <strong>Inteligência Artificial</strong> — como <strong>Claude Code</strong>, <strong>Codex</strong>, <strong>GitHub Copilot</strong>, <strong>ChatGPT</strong> e <strong>Perplexity</strong> — ao meu fluxo de engenharia corporativa para otimizar o ciclo de desenvolvimento, garantindo código de alta qualidade, agilidade operacional e aderência às melhores práticas de mercado.</p>
+<p>Integro ferramentas de <strong>Inteligência Artificial</strong> como <strong>Claude Code</strong>, <strong>Codex</strong>, <strong>GitHub Copilot</strong>, <strong>ChatGPT</strong> e <strong>Perplexity</strong> ao meu fluxo de engenharia corporativa para otimizar o ciclo de desenvolvimento, garantindo código de alta qualidade, agilidade operacional e aderência às melhores práticas de mercado.</p>
 
 <h4>🛠️ Tecnologias</h4>
 <div style="display: inline_block"><br>

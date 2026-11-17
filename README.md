@@ -1,10 +1,10 @@
-<h3>Olá, sou Leonardo desenvolvedor e entusiasta da tecnologia. 👋</h3>
+<h3>Leonardo | Forward Deployed Engineer 👋</h3>
 
-<p>Formado em Análise de Sistemas e focado na minha carreira como Desenvolvedor WEB, comprometido em criar soluções inovadoras para os desafios do mundo digital. Com experiência em marketing digital, combino a compreensão das necessidades dos clientes com habilidades técnicas para entregar soluções personalizadas que impulsionam o sucesso das empresas.</p>
+<p>Formado em Análise e Desenvolvimento de Sistemas, sou um profissional com 7 anos de carreira dedicados exclusivamente ao ecossistema web, atuando na arquitetura e desenvolvimento de sistemas corporativos, plataformas digitais e sites de alta performance.</p>
 
-<p>Atualmente integro <strong>Inteligência Artificial</strong> ao meu fluxo de desenvolvimento, usando ferramentas como <strong>Claude Code</strong> e <strong>Codex</strong> para escrever código com mais qualidade, agilidade e foco em boas práticas sempre buscando evoluir como profissional.</p>
+<p>Nos últimos 2 anos, atuo como <strong>Forward Deployed Engineer (FDE)</strong> em empresas de grande porte, operando na linha de frente técnica. Minha especialidade é traduzir desafios complexos de negócios em soluções de software sob medida, garantindo excelência em engenharia e entregas estratégicas de alto impacto.</p>
 
-<p>Ansioso para contribuir em projetos desafiadores que ampliem meus horizontes. Seja bem-vindo ao meu perfil estou aqui para colaborar em novos projetos! <span class="emoji">🚀</span></p>
+<p>Integro ferramentas de <strong>Inteligência Artificial</strong>, como <strong>Claude Code</strong> e <strong>Codex</strong>, ao meu fluxo de engenharia corporativa para otimizar o ciclo de desenvolvimento, garantindo código de alta qualidade, agilidade operacional e aderência às melhores práticas de mercado.</p>
 
 <h4>🛠️ Tecnologias</h4>
 <div style="display: inline_block"><br>
